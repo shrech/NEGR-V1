@@ -1,0 +1,48 @@
+colorama>=0.4.6
+pystyle>=1.0.4
+termcolor>=2.4.0
+rich>=13.7.0
+
+# Web / Requêtes / Discord / HTTP
+requests>=2.31.0
+aiohttp>=3.9.3
+websockets>=12.0
+httpx>=0.27.0
+
+# Discord Bot / API (au cas où tu veux évoluer ton tool)
+discord.py>=2.3.2
+discord-webhook>=1.1.0
+
+# JSON, Parsing, Manipulation
+pyyaml>=6.0.1
+simplejson>=3.19.2
+
+# Scraping / Parsing
+beautifulsoup4>=4.12.3
+lxml>=5.1.0
+html5lib>=1.1
+
+# Génération / Random
+faker>=24.3.0
+names>=0.3.0
+
+# Réseau / IP / OS utils
+scapy>=2.5.0
+socketio>=0.0.1
+psutil>=5.9.8
+
+# Sécurité / Encodage / Utils
+pycryptodome>=3.20.0
+pybase64>=1.2.3
+urllib3>=2.2.1
+
+# Multi-threading / Async
+aiofiles>=23.2.1
+thread6>=1.0.0
+
+# GUI / Optionnel pour évolution
+tk>=0.1.0
+PyQt5>=5.15.10
+
+# Packaging (si tu veux build un .exe plus tard)
+pyinstaller>=6.6.0
